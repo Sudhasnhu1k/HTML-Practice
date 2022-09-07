@@ -1,0 +1,9 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.runInTerminal": true,
+    "git.ignoreWindowsGit27Warning": true,
+    "auto-close-tag.activationOnLanguage": 
+}
